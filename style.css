@@ -5,7 +5,16 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/*header*/
+
 #title{
     font-size: 50px;
     display: inline;
+}
+
+/*main*/
+
+#sfondo{
+    background-color: lightgray;
+    height: 590px;
 }
