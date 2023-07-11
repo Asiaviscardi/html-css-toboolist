@@ -17,4 +17,13 @@
 #sfondo{
     background-color: lightgray;
     height: 590px;
+    padding-top: 33px;
+}
+
+#blocco{
+    background-color: white;
+    width: 655px;
+    height: 96%;
+    margin: auto;
+    
 }
