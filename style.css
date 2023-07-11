@@ -15,9 +15,10 @@
 /*main*/
 
 #sfondo{
-    background-color: lightgray;
+    background-color: hsl(200 20% 96% / 1);
     height: 590px;
     padding-top: 33px;
+    
 }
 
 #blocco{
@@ -25,5 +26,86 @@
     width: 655px;
     height: 96%;
     margin: auto;
+    border-radius: 5px;
+    padding-top: 1px;
+}
+
+.container{
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+.bottone{
+    color: white;
+    background-color: #47adf1;
+    padding: 4px 10px;
+    border-radius: 5px;
+    margin-top: 2px;
+    font-size: small;
     
+}
+
+.bianco{
+    color: #d9dde1;
+    background-color: white;
+    border: 1px solid #d9dde1;
+}
+
+hr{
+    color: hsl(200 20% 96% / 1);
+    margin-top: 20px;
+}
+
+li{
+    list-style: none;
+    margin-top: 15px;
+
+}
+
+.check{
+    color: green;
+    margin-right: 4px;
+    border: 1px solid green;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    padding: 3px;
+    text-align: center;
+}
+
+.cross{
+    color: red;
+    margin-right: 4px;
+    border: 1px solid red;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    padding: 3px;
+    text-align: center;
+
+}
+
+.rotondo{
+    border-radius: 12px;
+}
+
+.viola{
+    background-color:#9c72e4;
+}
+
+.verde{
+    background-color: green;
+}
+
+.arancione{
+    background-color: #f29e33;
+}
+
+.rosa{
+    background-color: #d863a1;
+}
+
+.pisello{
+    background-color: #b0c926;
 }
